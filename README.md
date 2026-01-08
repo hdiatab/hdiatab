@@ -34,5 +34,5 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=HadiatAbdulBashit&hide_border=false" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hdiatab&hide_border=false" />
 </details>
